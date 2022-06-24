@@ -1,0 +1,15 @@
+C:\Users\salek\source\repos\shkaf\shkaf\bin\Debug\net6.0\shkaf.exe
+C:\Users\salek\source\repos\shkaf\shkaf\bin\Debug\net6.0\shkaf.deps.json
+C:\Users\salek\source\repos\shkaf\shkaf\bin\Debug\net6.0\shkaf.runtimeconfig.json
+C:\Users\salek\source\repos\shkaf\shkaf\bin\Debug\net6.0\shkaf.dll
+C:\Users\salek\source\repos\shkaf\shkaf\bin\Debug\net6.0\ref\shkaf.dll
+C:\Users\salek\source\repos\shkaf\shkaf\bin\Debug\net6.0\shkaf.pdb
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.csproj.AssemblyReference.cache
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.AssemblyInfoInputs.cache
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.AssemblyInfo.cs
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.csproj.CoreCompileInputs.cache
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.dll
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\ref\shkaf.dll
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.pdb
+C:\Users\salek\source\repos\shkaf\shkaf\obj\Debug\net6.0\shkaf.genruntimeconfig.cache
